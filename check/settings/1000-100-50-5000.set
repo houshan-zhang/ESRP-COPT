@@ -1,0 +1,7 @@
+CUST   = 1000
+SUPP   = 100
+BUDGET = 50
+PROB1  = 0.1
+PROB2  = 0.9
+SAMP   = 5000
+QOS    = 10
